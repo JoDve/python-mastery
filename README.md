@@ -5,6 +5,8 @@ This repository contain my progress, exercises, and projects as I learn modern P
 ## Current Focus
 - Automate the Boring Stuff with Python (3rd edition)
 - Data Structures (Lists, Dictionaries)
+- Flow control statements
+- Functions
+- Debugging
 - Version Control (Git)
-
 
