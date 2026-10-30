@@ -8,5 +8,8 @@ This repository contain my progress, exercises, and projects as I learn modern P
 - Flow control statements
 - Functions
 - Debugging
+- String and Text editing
+- Regular expression (python3.14)
+- File Manipulation (create, open(read, write), move, rename, copy)
 - Version Control (Git)
 
